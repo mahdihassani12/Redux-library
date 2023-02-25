@@ -3,3 +3,9 @@
 ### Store: holding the state of the application
 ### Action: That describes the changes in the state of application
 ### Reducer: Ties the store and actions together
+
+## How to run?
+### Having Node.js installed.
+### Clone the project
+### npm i
+### node index.js (A complete redux example, includes: action, store, reducer)
