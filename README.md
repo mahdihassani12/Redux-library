@@ -9,3 +9,8 @@
 ### Clone the project
 ### npm i
 ### node index.js (A complete redux example, includes: action, store, reducer)
+
+## How to use multiple reducers?
+### There is a complete example on combine reducer file.
+### just run node combineReducers.js
+
