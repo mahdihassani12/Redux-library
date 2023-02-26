@@ -14,3 +14,8 @@
 ### There is a complete example on combine reducer file.
 ### just run node combineReducers.js
 
+## How to use async action?
+### There is a complete example on async action file.
+### run npm i
+### node asyncActions.js
+
